@@ -16,6 +16,6 @@
     },
     "currency": {
       "$ref": "./enums/currencyEnum.schema.json"
-    },
+    }
   }
 }
