@@ -100,7 +100,7 @@
                             <goal>npm</goal>
                         </goals>                        <!-- Optional configuration which provides for running any npm command -->
                         <configuration>
-                            <arguments>install ../api-definition/sml-api-${project.version}.tgz</arguments>
+                            <arguments>install ../api/myapp-api-${project.version}.tgz</arguments>
                         </configuration>
                     </execution>
                     <execution>
